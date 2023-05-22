@@ -1,4 +1,4 @@
-package com.clover.monitor.entity;
+package com.clover.monitor.global.entity;
 
 import java.time.LocalDateTime;
 
